@@ -1,0 +1,16 @@
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\bin\Debug\net8.0\PruebaSistran.Servicios.deps.json
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\bin\Debug\net8.0\PruebaSistran.Servicios.dll
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\bin\Debug\net8.0\PruebaSistran.Servicios.pdb
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\bin\Debug\net8.0\SISTRAN.CAD.dll
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\bin\Debug\net8.0\SISTRAN.CAD.pdb
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.AssemblyInfo.cs
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSi.13BC8C1D.Up2Date
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.dll
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\refint\PruebaSistran.Servicios.dll
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.pdb
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\ref\PruebaSistran.Servicios.dll
+C:\Users\felip\Documents\Github\PruebaSistran\PruebaSistran.Services\obj\Debug\net8.0\PruebaSistran.Servicios.sourcelink.json
