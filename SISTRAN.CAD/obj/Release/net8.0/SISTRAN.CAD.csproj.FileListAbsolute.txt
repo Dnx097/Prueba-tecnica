@@ -1,0 +1,14 @@
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\bin\Release\net8.0\SISTRAN.CAD.deps.json
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\bin\Release\net8.0\SISTRAN.CAD.runtimeconfig.json
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\bin\Release\net8.0\SISTRAN.CAD.dll
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\bin\Release\net8.0\SISTRAN.CAD.pdb
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.AssemblyInfo.cs
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.dll
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\refint\SISTRAN.CAD.dll
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.pdb
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\SISTRAN.CAD.genruntimeconfig.cache
+C:\Users\felip\Documents\Github\PruebaSistran\SISTRAN.CAD\obj\Release\net8.0\ref\SISTRAN.CAD.dll
