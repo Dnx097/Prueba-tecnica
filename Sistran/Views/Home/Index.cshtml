@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Sistran.Models.Persona>
+
+<h1>Lista de Personas</h1>
+
+<table class="table table-striped">
+    <a href="/Create">Nuevo</a>
+    <thead>
+        <tr>
+            <th>Identificación</th>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Celular</th>
+            <th>Correo</th>
+            <th>Acciones</th> <!-- Nueva columna para las acciones -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Identificacion</td>
+                <td>@persona.Nombres</td>
+                <td>@persona.Apellidos</td>
+                <td>@persona.FechaNacimiento?.ToString("dd/MM/yyyy")</td>
+                <td>@persona.Celular</td>
+                <td>@persona.Correo</td>
+                <td>
+                    <!-- Botón para eliminar -->
+                    <form asp-action="Delete" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@persona.IdPersona" />
+                        <button type="submit" class="btn btn-danger btn-sm">Borrar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
